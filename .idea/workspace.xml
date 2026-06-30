@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="" />
+    <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Data Type/python_dic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/python_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/python_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Type/python_tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcation/funcation_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcation/funcation_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcation/funcation_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcation/funcation_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcation/funcation_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object Oriented Program/class/class_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_1_Python_Django_Interview_Question_List.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Loop/For Loop/day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Loop/Nested Loop/day1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurstion_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurstion_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurstion_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/recurstion_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,11 +45,73 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.00000002472122" />
+      <entry key="S2" value="1.0219866462056548" />
+      <entry key="S5" value="1.4870462196162892" />
+      <entry key="S10" value="2.8325179578115414" />
+      <entry key="S30" value="6.379086112524943" />
+      <entry key="S60" value="8.310417972916754" />
+      <entry key="M2" value="9.694663655880051" />
+      <entry key="M5" value="10.890072208297019" />
+      <entry key="M10" value="11.980142780857433" />
+      <entry key="M15" value="13.69000694583676" />
+      <entry key="M30" value="19.766460397880714" />
+      <entry key="H1" value="30.816545073503505" />
+      <entry key="H2" value="49.27776816870502" />
+      <entry key="H4" value="71.45312064552289" />
+      <entry key="D1" value="106.82323157978668" />
+      <entry key="W1" value="115.4641432715157" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="1.2025402790257257E-182" />
+      <entry key="S10" value="1.1217449322118922E-91" />
+      <entry key="S30" value="6.353023986570419E-31" />
+      <entry key="S60" value="1.2536013662320677E-15" />
+      <entry key="M2" value="6.984552258967652E-8" />
+      <entry key="M5" value="0.0037539453254121936" />
+      <entry key="M10" value="0.1482524999652561" />
+      <entry key="M15" value="0.5084024765992233" />
+      <entry key="M30" value="1.8153646520788262" />
+      <entry key="H1" value="3.996264958862659" />
+      <entry key="H2" value="7.13552895709795" />
+      <entry key="H4" value="10.528352703856383" />
+      <entry key="D1" value="15.588875806243205" />
+      <entry key="W1" value="16.787985978888347" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9395227492140118" />
+      <entry key="MS500" value="0.9876008789734634" />
+      <entry key="S2" value="1.016988265664951" />
+      <entry key="S5" value="1.4648629994288351" />
+      <entry key="S10" value="2.776202871913269" />
+      <entry key="S30" value="6.301917218895887" />
+      <entry key="S60" value="8.253169022812578" />
+      <entry key="M2" value="9.659594141348599" />
+      <entry key="M5" value="10.877907550482083" />
+      <entry key="M10" value="12.119268785054574" />
+      <entry key="M15" value="14.190870040145152" />
+      <entry key="M30" value="21.575557520513165" />
+      <entry key="H1" value="34.807732728807395" />
+      <entry key="H2" value="56.409362418592714" />
+      <entry key="H4" value="81.97871452946626" />
+      <entry key="D1" value="122.41144160637977" />
+      <entry key="W1" value="132.25202699891528" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3FqYQSnAXWQN1UA2q3yK0Mn2kb0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,12 +119,168 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.class_01.executor": "Run",
+    "Python.day1.executor": "Run",
+    "Python.funcation_01.executor": "Run",
+    "Python.funcation_02.executor": "Run",
+    "Python.funcation_03.executor": "Run",
+    "Python.funcation_04.executor": "Run",
+    "Python.funcation_05.executor": "Run",
+    "Python.recurstion_01.executor": "Run",
+    "Python.recurstion_02.executor": "Run",
+    "Python.recurstion_03.executor": "Run",
+    "Python.recurstion_04.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false"
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "D:/Yuvraj/Projects/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yuvraj\Projects\Python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.class_01">
+    <configuration name="class_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Object Oriented Program/class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Object Oriented Program/class/class_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Loop/For Loop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Loop/For Loop/day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recurstion_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurstion_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recurstion_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurstion_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recurstion_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recursion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recursion/recurstion_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.class_01" />
+        <item itemvalue="Python.recurstion_04" />
+        <item itemvalue="Python.recurstion_03" />
+        <item itemvalue="Python.recurstion_02" />
+        <item itemvalue="Python.day1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,5 +300,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

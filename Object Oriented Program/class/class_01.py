@@ -1,5 +1,7 @@
 class Student:
-    name = 'Yuvraj'
+    def __init__(self):
+        p
+
 
 
 s1 = Student()

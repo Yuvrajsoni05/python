@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef787b3c-838a-4d5e-8103-835a8469ae49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Interview/Count Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Count Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Create a Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Find Common Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Find Even and Odd Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Find Missing Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Find the Largest Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Second Largest Without.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Youtube/Find the First Non-Repeating Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Youtube/a1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Youtube/a2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/Youtube/count Character Frequency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/l1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/a6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/a6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,60 +54,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0000000000008413" />
-      <entry key="S30" value="1.001014520406329" />
-      <entry key="S60" value="1.1929442612341912" />
-      <entry key="M2" value="3.6691413283089287" />
-      <entry key="M5" value="13.949878832024318" />
-      <entry key="M10" value="23.408315615867732" />
-      <entry key="M15" value="28.976658247858403" />
-      <entry key="M30" value="40.854301952232625" />
-      <entry key="H1" value="59.67604180720238" />
-      <entry key="H2" value="106.16029695655972" />
-      <entry key="H4" value="222.65714224321584" />
-      <entry key="D1" value="1039.4911300021843" />
-      <entry key="W1" value="1782.127898736243" />
+      <entry key="MS500" value="1.0000000000000016" />
+      <entry key="S2" value="1.0003792845750215" />
+      <entry key="S5" value="1.1126934386368785" />
+      <entry key="S10" value="1.8517497353897738" />
+      <entry key="S30" value="4.948008691705939" />
+      <entry key="S60" value="8.43155620673748" />
+      <entry key="M2" value="13.282367015089083" />
+      <entry key="M5" value="23.04070731248111" />
+      <entry key="M10" value="36.88916128852717" />
+      <entry key="M15" value="48.95667698421446" />
+      <entry key="M30" value="78.33159860350227" />
+      <entry key="H1" value="120.94603709514942" />
+      <entry key="H2" value="185.70571846212513" />
+      <entry key="H4" value="306.4230579083631" />
+      <entry key="D1" value="1158.5656122834428" />
+      <entry key="W1" value="1977.9867423904677" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="1.2841148163121E-234" />
-      <entry key="S10" value="1.133187899898458E-117" />
-      <entry key="S30" value="1.0429758660500755E-39" />
-      <entry key="S60" value="3.293433187195672E-20" />
-      <entry key="M2" value="2.0510060382414797E-10" />
-      <entry key="M5" value="1.860382829056062E-4" />
-      <entry key="M10" value="0.021826958519881746" />
-      <entry key="M15" value="0.12419235172416385" />
-      <entry key="M30" value="0.8437626009224236" />
-      <entry key="H1" value="2.6259128242094643" />
-      <entry key="H2" value="7.291519261499089" />
-      <entry key="H4" value="19.386503660561594" />
-      <entry key="D1" value="99.36534044182686" />
-      <entry key="W1" value="169.67383058970393" />
+      <entry key="MS500" value="2.935872822099882E-142" />
+      <entry key="S2" value="4.1393705895502974E-36" />
+      <entry key="S5" value="7.027061005124817E-15" />
+      <entry key="S10" value="8.382756709534645E-8" />
+      <entry key="S30" value="0.004376525905931969" />
+      <entry key="S60" value="0.06628099411052231" />
+      <entry key="M2" value="0.27671509843902936" />
+      <entry key="M5" value="1.019018482500579" />
+      <entry key="M10" value="2.186690080068039" />
+      <entry key="M15" value="3.228586512780976" />
+      <entry key="M30" value="6.103130470464343" />
+      <entry key="H1" value="10.541981774697366" />
+      <entry key="H2" value="16.99214995899504" />
+      <entry key="H4" value="29.080882582663083" />
+      <entry key="D1" value="112.42720687383103" />
+      <entry key="W1" value="190.25113582254235" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9395227492140118" />
-      <entry key="MS500" value="0.9876008614453725" />
-      <entry key="S2" value="0.9968856972203758" />
-      <entry key="S5" value="0.9987531130852756" />
-      <entry key="S10" value="0.9993763620813513" />
-      <entry key="S30" value="1.0008064180883718" />
-      <entry key="S60" value="1.1928224373597218" />
-      <entry key="M2" value="3.6689629408659146" />
-      <entry key="M5" value="13.94974087754947" />
-      <entry key="M10" value="23.42938467500385" />
-      <entry key="M15" value="29.09941281063566" />
-      <entry key="M30" value="41.694956155399574" />
-      <entry key="H1" value="62.29764323762349" />
-      <entry key="H2" value="113.44630799978775" />
-      <entry key="H4" value="242.03692103448515" />
-      <entry key="D1" value="1138.850859070142" />
-      <entry key="W1" value="1951.8003713942023" />
+      <entry key="MS100" value="0.9526379980439373" />
+      <entry key="MS500" value="0.9903428719330262" />
+      <entry key="S2" value="0.9979511516784842" />
+      <entry key="S5" value="1.1102376858907896" />
+      <entry key="S10" value="1.8429219060001967" />
+      <entry key="S30" value="4.927218412085649" />
+      <entry key="S60" value="8.462263631673121" />
+      <entry key="M2" value="13.52242139294139" />
+      <entry key="M5" value="24.027264252142132" />
+      <entry key="M10" value="39.04559684174489" />
+      <entry key="M15" value="52.15683963126015" />
+      <entry key="M30" value="84.41053456937047" />
+      <entry key="H1" value="131.46914291818572" />
+      <entry key="H2" value="202.68373517976542" />
+      <entry key="H4" value="335.4927315966955" />
+      <entry key="D1" value="1270.986251450433" />
+      <entry key="W1" value="2168.236322684378" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -110,75 +122,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.a1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.a2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.a3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.a6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bubbleshort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.date&amp;time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.day2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.del_fun.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcation_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcation_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcation_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcation_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcation_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inh_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inh_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inh_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.insertion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.l1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.l2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.l_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p1_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.p2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.property_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.q5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recurstion_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recurstion_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recurstion_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.recurstion_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.s_w.executor&quot;: &quot;Run&quot;,
-    &quot;Python.selection_sort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_q.executor&quot;: &quot;Run&quot;,
-    &quot;Python.udemy1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Yuvraj/Projects/Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Count Vowels.executor": "Run",
+    "Python.Count Words.executor": "Run",
+    "Python.Create a Class.executor": "Run",
+    "Python.Find Common Elements.executor": "Run",
+    "Python.Find Even and Odd Numbers.executor": "Run",
+    "Python.Find Missing Number.executor": "Run",
+    "Python.Find the First Non-Repeating Character.executor": "Run",
+    "Python.Find the Largest Number.executor": "Run",
+    "Python.Second Largest Without.executor": "Run",
+    "Python.a1 (1).executor": "Run",
+    "Python.a1.executor": "Run",
+    "Python.a2.executor": "Run",
+    "Python.a3.executor": "Run",
+    "Python.a6.executor": "Run",
+    "Python.bubbleshort.executor": "Run",
+    "Python.class_01.executor": "Run",
+    "Python.class_02.executor": "Run",
+    "Python.count Character Frequency.executor": "Run",
+    "Python.date&time.executor": "Run",
+    "Python.day.executor": "Run",
+    "Python.day1.executor": "Run",
+    "Python.day2.executor": "Run",
+    "Python.del_fun.executor": "Run",
+    "Python.funcation_01.executor": "Run",
+    "Python.funcation_02.executor": "Run",
+    "Python.funcation_03.executor": "Run",
+    "Python.funcation_04.executor": "Run",
+    "Python.funcation_05.executor": "Run",
+    "Python.inh_01.executor": "Run",
+    "Python.inh_02.executor": "Run",
+    "Python.inh_03.executor": "Run",
+    "Python.insertion.executor": "Run",
+    "Python.l1.executor": "Run",
+    "Python.l2.executor": "Run",
+    "Python.l_8.executor": "Run",
+    "Python.p1.executor": "Run",
+    "Python.p1_01.executor": "Run",
+    "Python.p2.executor": "Run",
+    "Python.property_01.executor": "Run",
+    "Python.q1.executor": "Run",
+    "Python.q2.executor": "Run",
+    "Python.q3.executor": "Run",
+    "Python.q4.executor": "Run",
+    "Python.q5.executor": "Run",
+    "Python.recurstion_01.executor": "Run",
+    "Python.recurstion_02.executor": "Run",
+    "Python.recurstion_03.executor": "Run",
+    "Python.recurstion_04.executor": "Run",
+    "Python.s_w.executor": "Run",
+    "Python.selection_sort.executor": "Run",
+    "Python.tuple_q.executor": "Run",
+    "Python.udemy1.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "D:/Yuvraj/Projects/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Yuvraj\Projects\Python" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Yuvraj\Projects\Python\Interview\Youtube" />
       <recent name="D:\Yuvraj\Projects\Python\Hacker Rank" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.a6">
-    <configuration name="a1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Create a Class">
+    <configuration name="Count Words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,7 +217,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/Count Words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Create a Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +241,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/Create a Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Find Common Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +265,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/Find Common Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Find Even and Odd Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,7 +289,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/a6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/Find Even and Odd Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Second Largest Without" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -289,7 +313,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/q3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview/Second Largest Without.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.a6" />
-        <item itemvalue="Python.q3" />
-        <item itemvalue="Python.a3" />
-        <item itemvalue="Python.a2" />
-        <item itemvalue="Python.a1" />
+        <item itemvalue="Python.Create a Class" />
+        <item itemvalue="Python.Count Words" />
+        <item itemvalue="Python.Find Common Elements" />
+        <item itemvalue="Python.Find Even and Odd Numbers" />
+        <item itemvalue="Python.Second Largest Without" />
       </list>
     </recent_temporary>
   </component>
